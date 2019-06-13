@@ -1,0 +1,8 @@
+{
+  "name": "devbot",
+  "description": "Salut",
+  "version": "1.0.0",
+  "dependencies": {
+    "https://github.com/discordjs/discord.js/": "11.5"
+  }
+}
