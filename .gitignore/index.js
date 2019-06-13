@@ -6,7 +6,7 @@ const citation = '588358482563170314'
 
 const prefix = '!'
 
-client.login('NTg4MzU1OTkxMTg4Mjc1MjMy.XQD8VA.dPfgY8LPolt0MeCJ94o0ulX6Ru0');
+client.login('NTg4MzU1OTkxMTg4Mjc1MjMy.XQJP3w.uIUfEaWt1FR0MZhwqjXM7yVmIuU');
 
 client.on('ready', () => {
   client.user.setActivity("Sucer chatom", { type: "PLAYING" });
