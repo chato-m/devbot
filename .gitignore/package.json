@@ -1,8 +1,14 @@
 {
   "name": "devbot",
-  "description": "Salut",
   "version": "1.0.0",
+  "description": "y'en a pas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chatom_",
+  "license": "ISC",
   "dependencies": {
-    "https://github.com/discordjs/discord.js/": "11.5"
+    "discord.js": "^11.5.0",
   }
 }
